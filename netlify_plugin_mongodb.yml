@@ -1,0 +1,6 @@
+plugins:
+  - package: netlify-plugin-mongodb
+    config:
+      uri: mongodb+srv://u412ser:limitmerehna786@cluster0.c1mlvwy.mongodb.net/proshop?retryWrites=true&w=majority&appName=Cluster0
+      database:Cluster0
+      collection: Proshop
