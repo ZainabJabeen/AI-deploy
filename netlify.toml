@@ -1,9 +1,0 @@
-[build]
-  command = "npm run build"
-  publish = "build"
-
-[build.environment]
-  NODE_ENV = "production"
-
-[devDependencies]
-  netlify-plugin-mongodb = "^1.0.0"
